@@ -10,7 +10,9 @@ We are given an hour and a half at National level to develop the piece of code g
 
 Although the code appears to be a short and simple solution, much of your time in the room is spent analyzing the prompt for details that could be overlooked and acquire penalties against your score.
 
-This prompt specifically was dedicated to solving the distance between a set of GPS Coordinates. 
+This prompt specifically was dedicated to calculating the distance between a set of GPS Coordinates. 
+
+### Notes on this Competition
 
 It is interesting to note that in this competition there were severe errors in the prompt that made it difficult to complete it accurately. They provided a source of test data without answers to verify our algorithms. The other example data (written as text on the prompt) provided incorrectly placed New York and Paris in the exact same location.
 

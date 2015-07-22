@@ -10,7 +10,10 @@ We are given an hour and a half at National level to develop the piece of code g
 
 Although the code appears to be a short and simple solution, much of your time in the room is spent analyzing the prompt for details that could be overlooked and acquire penalties against your score.
 
-This prompt specifically was dedicated to calculating the distance between a set of GPS Coordinates. 
+This prompt specifically was dedicated to calculating the distance between a set of GPS Coordinates using the Haversine function.
+
+
+![Image of Haversine Function](https://upload.wikimedia.org/math/1/5/a/15ab0df72b9175347e2d1efb6d1053e8.png)
 
 ### Notes on this Competition
 

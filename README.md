@@ -12,8 +12,9 @@ Although the code appears to be a short and simple solution, much of your time i
 
 This prompt specifically was dedicated to calculating the distance between a set of GPS Coordinates using the Haversine function.
 
-
 ![Image of Haversine Function](https://upload.wikimedia.org/math/1/5/a/15ab0df72b9175347e2d1efb6d1053e8.png)
+
+The formula had to be quickly interpreted and implemented.
 
 ### Notes on this Competition
 

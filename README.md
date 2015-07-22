@@ -14,7 +14,7 @@ This prompt specifically was dedicated to calculating the distance between a set
 
 ### Notes on this Competition
 
-It is interesting to note that in this competition there were severe errors in the prompt that made it difficult to complete it accurately. They provided a source of test data without answers to verify our algorithms. The other example data (written as text on the prompt) provided incorrectly placed New York and Paris in the exact same location.
+It is interesting to note that in this competition there were severe errors in the prompt that made it difficult to complete it accurately. They provided a source of test data without answers to verify our algorithms. The other example data provided (written as text on the prompt) incorrectly placed New York and Paris in the same location.
 
 The judges were quick to respond to a few of my questions, and provided replacement example data they pulled from Google. However, this still did not verify the accuracy of the algorithm. 
 
